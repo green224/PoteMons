@@ -1,0 +1,22 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement style="margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px; background-color: rgba(0, 0, 0, 0.2);">
+        <uie:ObjectField label="操作対象" type="FaceAnimator.Core.Body, FaceAnimator" name="Target" />
+        <ui:Foldout text="詳細" value="false" style="margin-left: 17px;">
+            <ui:Foldout text="マッピング先アニメーション名" value="false" name="MappingAnimNameFO" style="margin-left: 17px;" />
+            <ui:Slider picking-mode="Ignore" label="下向き時の半目具合" value="0" high-value="1" show-input-field="true" name="EyeTrackD_HalfRate" />
+            <uie:FloatField label="まばたき間隔最小" value="2" name="EyeBlink_MinSepT" />
+            <uie:FloatField label="まばたき間隔最大" value="10" name="EyeBlink_MaxSepT" />
+            <uie:CurveField label="まばたきアニメ" name="EyeBlink_AniCrv" />
+        </ui:Foldout>
+    </ui:VisualElement>
+    <ui:VisualElement style="background-color: rgba(0, 0, 0, 0.2); margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px;">
+        <uie:Vector2Field label="EyeTrack" name="EyeTrack" />
+        <ui:VisualElement name="EyeTrack_Area" style="background-color: rgb(103, 103, 103); width: 214px; height: 214px; margin-left: auto; margin-right: auto; margin-top: 2px; margin-bottom: 7px; border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px;">
+            <ui:VisualElement name="EyeTrack_Center" picking-mode="Ignore" style="width: 10px; height: 10px; background-color: rgb(185, 185, 185); border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; left: 100px; top: 100px;" />
+        </ui:VisualElement>
+        <ui:Slider label="EyeOpenRate" value="1" high-value="1" name="EyeOpenRate" show-input-field="true" binding-path="eyeOpenRate" />
+        <ui:SliderInt label="MouthType" value="0" high-value="3" name="MouthType" show-input-field="true" binding-path="mouthType" />
+        <ui:Toggle label="自動まばたき" value="true" name="EyeBlink_AutoMode" binding-path="eyeBlink_autoMode" />
+        <ui:Toggle label="自動Update" value="true" name="AutoUpdate" binding-path="autoUpdate" />
+    </ui:VisualElement>
+</ui:UXML>

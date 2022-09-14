@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AM_Main
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/base
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L/leg0T_L
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L/leg0T_L/leg1_L
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L/leg0T_L/leg1_L/leg1T_L
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L/leg0T_L/leg1_L/leg1T_L/foot0_L
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L/leg0T_L/leg1_L/leg1T_L/foot0_L/foot1_L
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_L/leg0T_L/leg1_L/leg1T_L/foot0_L/foot1_L/foot1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R/leg0T_R
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R/leg0T_R/leg1_R
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R/leg0T_R/leg1_R/leg1T_R
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R/leg0T_R/leg1_R/leg1T_R/foot0_R
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R/leg0T_R/leg1_R/leg1T_R/foot0_R/foot1_R
+    m_Weight: 1
+  - m_Path: Armature/base/leg0_R/leg0T_R/leg1_R/leg1T_R/foot0_R/foot1_R/foot1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L/handA1_0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L/handA1_0_L/handA1_0_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L/handA1_1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L/handA1_1_L/handA1_1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L/handA1_2_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_L/armA1_L/armA1T_L/armA2_L/armA2T_L/handA0_L/handA1_2_L/handA1_2_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R/handA1_0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R/handA1_0_R/handA1_0_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R/handA1_1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R/handA1_1_R/handA1_1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R/handA1_2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/armA2_R/armA2T_R/handA0_R/handA1_2_R/handA1_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/HDL_armA2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armA0_R/armA1_R/armA1T_R/HDL_armA2_R/HDL_armA2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L/handB1_0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L/handB1_0_L/handB1_0_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L/handB1_1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L/handB1_1_L/handB1_1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L/handB1_2_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_L/armB1T_L/armB2_L/armB2T_L/handB0_L/handB1_2_L/handB1_2_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R/handB1_0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R/handB1_0_R/handB1_0_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R/handB1_1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R/handB1_1_R/handB1_1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R/handB1_2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/armB2_R/armB2T_R/handB0_R/handB1_2_R/handB1_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/HDL_armB2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/armB_Base/armB1_R/armB1T_R/HDL_armB2_R/HDL_armB2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/antenna0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/antenna0_L/antenna1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/antenna0_L/antenna1_L/antenna1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/antenna0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/antenna0_R/antenna1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/antenna0_R/antenna1_R/antenna1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eye_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eye_L/eye_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eye_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eye_R/eye_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline0_L
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline0_L/eyeline0_L_end
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline0_R
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline0_R/eyeline0_R_end
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_L
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_L/eyeline1_1_L
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_L/eyeline1_1_L/eyeline1_2_L
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_L/eyeline1_1_L/eyeline1_2_L/eyeline1_2_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_L/eyeline1_3_L
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_L/eyeline1_3_L/eyeline1_3_L_end
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_R
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_R/eyeline1_1_R
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_R/eyeline1_1_R/eyeline1_2_R
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_R/eyeline1_1_R/eyeline1_2_R/eyeline1_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_R/eyeline1_3_R
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/eyeline1_0_R/eyeline1_3_R/eyeline1_3_R_end
+    m_Weight: 0
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair0
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair0/hair0_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair1_L/hair1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair1_R/hair1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair2_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair2_L/hair2_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair2_R/hair2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair3_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair3_L/hair3_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair3_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/hair3_R/hair3_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth0
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth0/mouth0_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth1
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth1/mouth1_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth2_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth2_L/mouth2_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth2_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/neck/head/mouth2_R/mouth2_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/oppai_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/oppai_L/oppai_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/oppai_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/oppai_R/oppai_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingA0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingA0_L/wingA1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingA0_L/wingA1_L/wingA1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingA0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingA0_R/wingA1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingA0_R/wingA1_R/wingA1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingB0_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingB0_L/wingB1_L
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingB0_L/wingB1_L/wingB1_L_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingB0_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingB0_R/wingB1_R
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase/wingB0_R/wingB1_R/wingB1_R_end
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase_Fur
+    m_Weight: 1
+  - m_Path: Armature/base/spine0/spine1/wingBase_Fur/wingBase_Fur_end
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Eye0]
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Eye0]/visibility[vis:Head_Eye0]_end
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Eye1]
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Eye1]/visibility[vis:Head_Eye1]_end
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Mouth0]
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Mouth0]/visibility[vis:Head_Mouth0]_end
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Mouth1]
+    m_Weight: 1
+  - m_Path: Armature/visibility[vis:Head_Mouth1]/visibility[vis:Head_Mouth1]_end
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Body_ArmB
+    m_Weight: 1
+  - m_Path: Body_Foot
+    m_Weight: 1
+  - m_Path: Body_Skin
+    m_Weight: 1
+  - m_Path: Claw0
+    m_Weight: 1
+  - m_Path: Claw1_0
+    m_Weight: 1
+  - m_Path: Claw1_1
+    m_Weight: 1
+  - m_Path: Claw1_2
+    m_Weight: 1
+  - m_Path: Claw2_0
+    m_Weight: 1
+  - m_Path: Claw2_1
+    m_Weight: 1
+  - m_Path: Claw2_2
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 1
+  - m_Path: Head/Antenna
+    m_Weight: 1
+  - m_Path: Head/Eye_Center
+    m_Weight: 1
+  - m_Path: Head/Eye_HL
+    m_Weight: 1
+  - m_Path: Head/Eye_Line1
+    m_Weight: 1
+  - m_Path: Head/Eye_Line2
+    m_Weight: 1
+  - m_Path: Head/Hair
+    m_Weight: 1
+  - m_Path: Head_Eye0
+    m_Weight: 1
+  - m_Path: Head_Eye1
+    m_Weight: 1
+  - m_Path: Head_Mouth0
+    m_Weight: 1
+  - m_Path: Head_Mouth1
+    m_Weight: 1
+  - m_Path: Muffler
+    m_Weight: 1
+  - m_Path: Wing0
+    m_Weight: 1
+  - m_Path: Wing1
+    m_Weight: 1
+  - m_Path: Wing_Fur0
+    m_Weight: 1
+  - m_Path: Wing_Fur1
+    m_Weight: 1
