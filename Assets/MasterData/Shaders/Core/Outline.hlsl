@@ -89,6 +89,7 @@ Varyings OutlinePassVertex(Attributes input)
 	float c2oLen = -dot( UNITY_MATRIX_V._m20_m21_m22_m23, float4(wPos,1) );
 	float w = _ScreenParams.w - 1;		// 1/スクリーン高さ
 	float push = w*2 * tanHFov*c2oLen;
+//push *= 1.6;
 
 	// 押し出し結果を反映
 	wPos += normalWS * push;
