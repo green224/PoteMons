@@ -1,0 +1,14 @@
+
+obj/
+Logs/
+Library/
+Temp/
+UserSettings/
+output/
+
+*.sln
+*.csproj
+.vs/
+.vscode/
+.vsconfig
+

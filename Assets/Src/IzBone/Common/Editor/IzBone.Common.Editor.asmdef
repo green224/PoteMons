@@ -1,0 +1,23 @@
+{
+    "name": "IzBone.Common.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Entities",
+        "IzBone.Common"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

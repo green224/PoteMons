@@ -1,0 +1,20 @@
+{
+    "name": "App",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.UI",
+        "Unity.Mathematics",
+        "Unity.Burst",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

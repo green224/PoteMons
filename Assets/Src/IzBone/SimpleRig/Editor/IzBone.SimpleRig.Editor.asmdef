@@ -1,0 +1,26 @@
+{
+    "name": "IzBone.SimpleRig.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Entities",
+        "IzBone.SimpleRig",
+        "IzBone.Common",
+        "IzBone.Common.Editor",
+        "IzBone.PhysBone"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

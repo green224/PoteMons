@@ -1,0 +1,23 @@
+{
+    "name": "IzBone.PhysSpring",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Entities",
+        "IzBone.IzBCollider",
+        "IzBone.Common",
+        "IzBone.PhysBone"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

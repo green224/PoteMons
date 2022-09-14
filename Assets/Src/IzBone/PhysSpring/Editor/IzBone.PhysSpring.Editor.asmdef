@@ -1,0 +1,28 @@
+{
+    "name": "IzBone.PhysSpring.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Entities",
+        "IzBone.PhysSpring",
+        "IzBone.IzBCollider",
+        "IzBone.IzBCollider.Editor",
+        "IzBone.Common",
+        "IzBone.Common.Editor",
+        "IzBone.PhysBone"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
