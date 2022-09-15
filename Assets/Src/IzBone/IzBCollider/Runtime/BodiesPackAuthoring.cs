@@ -96,8 +96,8 @@ namespace IzBone.IzBCollider {
 				for (int i=0; i<trans.childCount; ++i)
 					collectChildren( trans.GetChild(i), result );
 
-				var a = trans.GetComponent<BodyAuthoring>();
-				if (a != null) result.Add(a);
+				var a = trans.GetComponents<BodyAuthoring>();
+				foreach (var i in a) result.Add(i);
 			}
 
 			var ret = new List<BodyAuthoring>();
