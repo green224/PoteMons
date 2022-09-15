@@ -5,6 +5,7 @@ Library/
 Temp/
 UserSettings/
 output/
+/Recordings/
 
 *.sln
 *.csproj
